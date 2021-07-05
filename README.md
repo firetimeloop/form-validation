@@ -1,24 +1,13 @@
-# form-validation
+# Проект: form-validation
 
-## Project setup
-```
-npm install
-```
+В проекте используются:
+1. HTML.
+2. CSS.
+3. JavaScript.
+4. Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+В проекте поддерживается:
+1. Возможность заполнить форму создания клиента.
+2. Валидация формы при заполнении.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Проект доступен по ссылке https://firetimeloop.github.io/mesto/
